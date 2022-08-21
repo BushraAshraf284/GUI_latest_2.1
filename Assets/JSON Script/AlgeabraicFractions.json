@@ -1,0 +1,85 @@
+{
+    "questions": [{
+            "problem": "Simplify fully (10x+12)/2",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+
+        },
+        {
+            "problem": "Simplify fully (15x-12)/3",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully (45y<sup>2</sup> + 10)/5",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully (10p+60)/15",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully (10a+5-20b)/15",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully 11x/(8x-x<sup>2</sup>)",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully 3ab/(8a+4ab<sup>2</sup>)",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully (24x-10x<sup>2</sup>)/8xy<sup>2</sup>",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully (5x<sup>2</sup> - 20y)/35y",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        },
+        {
+            "problem": "Simplify fully (21p<sup>2</sup>q + 14pq)/7pqr",
+            "choice1": "",
+            "choice2": "",
+            "choice3": "",
+            "choice4": "",
+            "correctanswer": ""
+        }
+
+    ]
+}

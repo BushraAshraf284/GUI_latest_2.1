@@ -1,0 +1,91 @@
+{
+    "questions": [{
+    "problem": "Which of the lists below contains like terms only?",
+
+    "choice1": "3 x2 y3 , -3 y2 x3 , - 10 y2 x3 , 1/y2 x3",
+    "choice2": "- x , 3 x2 , 4 y2 x2",
+    "choice3": "x y , -3 x2 y2 , 0.002 x , (1/4) x y",
+    "choice4": "- x3 y3 , -3 y3 x3 , 0.04 x3 y3 , 1.2 x3 y3",
+    "correctanswer": "4"
+},
+{
+    "problem": "Which of the lists below contains unlike (not like) terms?",
+
+    "choice1": "2x , -3x , -x , 0.01 x",
+    "choice2": "x , 5x2 , 99 x y , 9",
+    "choice3": "-x , x , 4x , 0.2 x , (1/4) x",
+    "choice4": "- 2 , 7 , 4 , 89",
+    "correctanswer": "2"
+},
+{
+    "problem": "Which of the terms below is a like term to - x2 y?",
+
+    "choice1": "- 4 y x2",
+    "choice2": "- x y2",
+    "choice3": "- 8 y x-2",
+    "choice4": "- x y",
+    "correctanswer": "1"
+},
+{
+    "problem": "Which of these are like terms in the following expression:3x + 7 - 9x + 24y + 2x2",
+
+    "choice1": "7, 24y",
+    "choice2": "3x, 9x",
+    "choice3": "3x, -9x",
+    "choice4": "3x, -9x, 2x2",
+    "correctanswer": "2"
+},
+{
+    "problem": "Which of the terms below is a NOT a like term to -9?",
+
+    "choice1": "- 4.99 y0",
+    "choice2": "- (1/6)",
+    "choice3": "- 0.007",
+    "choice4": "- 9 x",
+    "correctanswer": "4"
+},
+{
+    "problem": "Simplify by combining like terms 3g + 3h + 3 + 2g + 8",
+
+    "choice1": "6g+5h+8",
+    "choice2": "5g+3h+11",
+    "choice3": "8gh+11",
+    "choice4": "6g+2h+11",
+    "correctanswer": "2"
+},
+{
+    "problem": "Simplify by combining like terms 2x + 5 + x",
+
+    "choice1": "2x+x+4",
+    "choice2": "7x+5",
+    "choice3": "3x+5",
+    "choice4": "7x+x",
+    "correctanswer": "3"
+},
+{
+    "problem": "Simplify by combining like terms 4t - t + 3",
+
+    "choice1": "4t+4",
+    "choice2": "5t-3",
+    "choice3": "5t+3",
+    "choice4": "3t+3",
+    "correctanswer": "4"
+},
+{
+    "problem": "Simplify by combining like terms 7x + 2y + 9x + 8",
+
+    "choice1": "16x+10y",
+    "choice2": "9xy+9x+8",
+    "choice3": "18xy+y",
+    "choice4": "16x+2y+8",
+    "correctanswer": "4"
+},
+{
+    "problem": "Simplify by combining like terms 6n - n + 3 -1",
+
+    "choice1": "5n+2",
+    "choice2": "5n-2",
+    "choice3": "7n+2",
+    "choice4": "7n-2",
+    "correctanswer": "1"
+}]}

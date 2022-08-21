@@ -1,0 +1,91 @@
+{
+    "questions": [{
+    "problem": " If a = 20, b = 35 and c = 5 then (4a + b)⁄c is",
+
+    "choice1": "23",
+    "choice2": "115",
+    "choice3": "53",
+    "choice4": "43",
+    "correctanswer": "1"
+},
+{
+    "problem": "If a = 2, b = 4 and c =3 then 2ac[(2b + 3c)-c] is",
+
+    "choice1": "11",
+    "choice2": "51",
+    "choice3": "132",
+    "choice4": "12",
+    "correctanswer": "3"
+},
+{
+    "problem": " If a = 3, b = 2, c = 4 and x = 5 then (2ab + 3ac) + (3ax - 4acx)⁄(2abcx - 2x) + 3 is",
+
+    "choice1": "-2",
+    "choice2": "-10",
+    "choice3": "-5",
+    "choice4": "-9",
+    "correctanswer": "1"
+},
+{
+    "problem": " If p = 2, q = 1 and r = 3 then (2pq + 3p)⁄2[(5pqr + 2p) -3pr] is",
+
+    "choice1": "5⁄16",
+    "choice2": "5⁄6",
+    "choice3": "3⁄7",
+    "choice4": "2⁄3",
+    "correctanswer": "1"
+},
+{
+    "problem": "Evaluate when x = 8: 2x + x - 10",
+
+    "choice1": "34",
+    "choice2": "22",
+    "choice3": "14",
+    "choice4": "24",
+    "correctanswer": "3"
+},
+{
+    "problem": "Evaluate when a = 15:  2(a - 5) + 2",
+
+    "choice1": "22",
+    "choice2": "27",
+    "choice3": "14",
+    "choice4": "7",
+    "correctanswer": "1"
+},
+{
+    "problem": " Evaluate the expression when x = 8:  7(6 + 3 − x)",
+
+    "choice1": "72",
+    "choice2": "56",
+    "choice3": "21",
+    "choice4": "7",
+    "correctanswer": "4"
+},
+{
+    "problem": "-4 + 10 + (-2)",
+
+    "choice1": "-4",
+    "choice2": "4",
+    "choice3": "-16",
+    "choice4": "14",
+    "correctanswer": "2"
+},
+{
+    "problem": "Evaluate when a = 15: 2(a - 5) + 2",
+
+    "choice1": "22",
+    "choice2": "27",
+    "choice3": "7",
+    "choice4": "14",
+    "correctanswer": "22"
+},
+{
+    "problem": "2x + 5(y - 1) when x=8 and y=5",
+
+    "choice1": "20",
+    "choice2": "31",
+    "choice3": "36",
+    "choice4": "-4",
+    "correctanswer": "3"
+}]}

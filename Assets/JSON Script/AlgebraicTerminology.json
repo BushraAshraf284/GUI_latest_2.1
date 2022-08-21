@@ -1,0 +1,84 @@
+{
+    "questions": [{
+            "problem": "In 3a + 6x expression, what are variables?",
+            "choice1": "a and x",
+            "choice2": "3a and 6x",
+            "choice3": "3 and 6",
+            "choice4": "3 and 8",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "In the term 5x, the number \"5 \" is referred to as the:",
+            "choice1": "Expression",
+            "choice2": "Equation",
+            "choice3": "Coefficient",
+            "choice4": "Formula",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "3a + 5n is an example of:",
+            "choice1": "A formula",
+            "choice2": "An equation",
+            "choice3": "An expression",
+            "choice4": "An identity",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "5p – 14 = 36 is an example of:",
+            "choice1": "A formula",
+            "choice2": "An equation",
+            "choice3": "An expression",
+            "choice4": "An identity",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "2 (n + m) = n + m +n + m:",
+            "choice1": "An expression",
+            "choice2": "A formula",
+            "choice3": "An identity",
+            "choice4": "An equation",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "2b – 3 > 9 is an example of:",
+            "choice1": "A formula",
+            "choice2": "An equation",
+            "choice3": "An inequality",
+            "choice4": "An expression",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "5<sup>2</sup>f + 5h<sup>5</sup> + 2gh is an example of:",
+            "choice1": "An expression",
+            "choice2": "An equation",
+            "choice3": "An identity",
+            "choice4": "A formula",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "290 = 2x/6 is an example of:",
+            "choice1": "An equation",
+            "choice2": "An inequality",
+            "choice3": "An identity",
+            "choice4": "An expression",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "5 < 5b – 15 < 65 is an example of:",
+            "choice1": "A formula",
+            "choice2": "An expression",
+            "choice3": "An inequality",
+            "choice4": "An equation",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "3x + 3y = 3 (x + y) is an example of:",
+            "choice1": "An equation",
+            "choice2": "A formula",
+            "choice3": "An expression",
+            "choice4": "An identity",
+            "correctanswer": "4"
+        }
+
+    ]
+}

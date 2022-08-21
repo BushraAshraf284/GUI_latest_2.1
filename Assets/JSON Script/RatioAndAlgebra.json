@@ -1,0 +1,53 @@
+{
+    "questions": [{
+            "problem": "Yolanda and Rosemary won some money that now they share in the ratio 7:4. If Yolanda gets £30 more than Rosemary, calculate the amount of money they won in total.",
+            "choice1": "£40",
+            "choice2": "£110",
+            "choice3": "£140",
+            "choice4": "£170",
+            "correctanswer": "2"
+
+        },
+        {
+            "problem": "Fred and Martha divide some money between themselves in the ratio 18:3 Fred later gives £30 to Martha to make the sharing more fair. Now the ratio is 1:1 Work out the amount of money that Fred had originally.",
+            "choice1": "£84",
+            "choice2": "£36",
+            "choice3": "£12",
+            "choice4": "£72",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "The ratio of boys to girls in a school is 3:2 The numbers of girls who wear glasses and the girls who don't are in the ratio 5:3 Using algebra calculate the number of girls who don't wear glasses, if there are 80 students altogether in this school.",
+            "choice1": "32 girls",
+            "choice2": "12 girls",
+            "choice3": "48 girls",
+            "choice4": "20 girls",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "Using algebra share 45 in the ratio 2:3",
+            "choice1": "15 and 30",
+            "choice2": "18 and 27",
+            "choice3": "20 and 25",
+            "choice4": "2 and 3",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "Using algebra share 150 in the ratio 2:5:3",
+            "choice1": "30:75:45",
+            "choice2": "20:100:30",
+            "choice3": "20:50:30",
+            "choice4": "10:25:15",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "Lottie and Jessie won some money that now they share in the ratio 5:9 If Jessie gets £16 more than Lottie, calculate the amount of money they won in total.",
+            "choice1": "£56",
+            "choice2": "£72",
+            "choice3": "£36",
+            "choice4": "£20",
+            "correctanswer": "1"
+        }
+
+    ]
+}

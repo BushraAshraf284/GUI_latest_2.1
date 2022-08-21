@@ -1,0 +1,89 @@
+{
+    "questions": [{
+    "problem": "If we add, 7xy + 5yz – 3zx, 4yz + 9zx – 4y and –3xz + 5x – 2xy, then the answer is:",
+
+    "choice1": "5xy + 9yz +3zx + 5x – 4y",
+    "choice2": "5xy – 9yz +3zx – 5x – 4y",
+    "choice3": "5xy + 10yz +3zx + 15x – 4y",
+    "choice4": "5xy + 10yz +3zx + 5x – 6y",
+    "correctanswer": "1"
+},
+{
+    "problem": " If we multiply 5x and (– 4xyz), then we get:",
+
+    "choice1": " 20x2yz",
+    "choice2": " -20x2yz",
+    "choice3": " x2yz",
+    "choice4": "-2xyz",
+    "correctanswer": "2"
+},
+{
+    "problem": "Which of the lists below contains unlike (not like) terms?",
+
+    "choice1": "2x , -3x , -x , 0.01 x",
+    "choice2": "x , 5x2 , 99 x y , 9",
+    "choice3": "-x , x , 4x , 0.2 x , (1/4) x",
+    "choice4": "- 2 , 7 , 4 , 89",
+    "correctanswer": "2"
+},
+{
+    "problem": "The product of 4x and 0 is:",
+
+    "choice1": "4x",
+    "choice2": "4",
+    "choice3": "0",
+    "choice4": "none",
+    "correctanswer": "3"
+},{
+    "problem": " If we subtract 4a – 7ab + 3b + 12 from 12a – 9ab + 5b – 3, then the answer is:",
+
+    "choice1": "8a+2ab+2b+15",
+    "choice2": " 8a+2ab+2b-15",
+    "choice3": "8a-2ab+2b-15",
+    "choice4": "8a-2ab-2b-15",
+    "correctanswer": "3"
+},{
+    "problem": "Which of the following is the value of (x+ 1/x)2?",
+
+    "choice1": " x2 + 1/x2",
+    "choice2": " x2 - 1/x2",
+    "choice3": "x2 + 1/x2 + 2",
+    "choice4": "x2+ 1/x2 + 2x",
+    "correctanswer": "3"
+},
+{
+    "problem": " Evaluate the expression for the given value of the variable: 12m when m = 5",
+
+    "choice1": "50",
+    "choice2": "60",
+    "choice3": "65",
+    "choice4": "70",
+    "correctanswer": "2"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable: 7r, r = 3",
+
+    "choice1": "12",
+    "choice2": "15",
+    "choice3": "18",
+    "choice4": "21",
+    "correctanswer": "4"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable; q × 4, q = 8",
+
+    "choice1": "32",
+    "choice2": "36",
+    "choice3": "42",
+    "choice4": "48",
+    "correctanswer": "1"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable: f × 11, f = 3",
+
+    "choice1": "27",
+    "choice2": "30",
+    "choice3": "33",
+    "choice4": "44",
+    "correctanswer": "3"
+}]}

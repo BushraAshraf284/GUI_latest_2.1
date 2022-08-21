@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ab438a08ad9786e47ba2e3818368b90a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - heart1: {fileID: 8292995732658516601, guid: ab82dec03c44d3940a20c74db34d2dcd,
+      type: 3}
+  - heart2: {fileID: 7632227314978712964, guid: bda6deabf5056db4cac80455ee6ccf48,
+      type: 3}
+  - heart3: {fileID: 3148890688084896280, guid: 0dabb0dde88228b49b0f1e5c4ee54f8c,
+      type: 3}
+  - gameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,77 @@
+{
+    "questions": [{
+            "problem": "n divided by 3=?",
+            "choice1": "n/3",
+            "choice2": "n ÷ 3",
+            "choice3": "3 ÷ n",
+            "choice4": "3/n",
+            "correctanswer": "1"
+
+        },
+        {
+            "problem": "Take 11 away from n=?",
+            "choice1": "11 - n",
+            "choice2": "11n",
+            "choice3": "n - 11",
+            "choice4": "-11n",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "n multiplied by 6=?",
+            "choice1": "n × 6",
+            "choice2": "n6",
+            "choice3": "6n",
+            "choice4": "6 × n",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "n multiplied by itself=?",
+            "choice1": "2n",
+            "choice2": "n2",
+            "choice3": "n<sup>2</sup>",
+            "choice4": "nn",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "n + n + n + n + n= ?",
+            "choice1": "n<sup>5</sup>",
+            "choice2": "5n",
+            "choice3": "n + 5",
+            "choice4": "n5",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "n subtracted from 8= ?",
+            "choice1": "8n",
+            "choice2": "n - 8",
+            "choice3": "-8n",
+            "choice4": "8 - n",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "How would you write n/6 algebraic expression using words?",
+            "choice1": "6 divided by n",
+            "choice2": "6 plus n",
+            "choice3": "n divided by 6",
+            "choice4": "6 times n",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "How would you write n/5 algebraic expression using words?",
+            "choice1": "n multiplied by 5",
+            "choice2": "n divided by 5",
+            "choice3": "n plus 5",
+            "choice4": "5 divided by n",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "How would you write 22 - n algebraic expression using words?",
+            "choice1": "-22 multiplied by n",
+            "choice2": "22 taken away from n",
+            "choice3": "22 subtract n",
+            "choice4": "n subtract 22",
+            "correctanswer": "3"
+        }
+
+    ]
+}

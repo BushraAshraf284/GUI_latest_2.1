@@ -1,0 +1,91 @@
+{
+    "questions": [{
+    "problem": "By simplifying the following 2b4 x 8b7 ⁄16b5 x 2b³, the answer will be",
+
+    "choice1": "3⁄2b³",
+    "choice2": "3⁄4b³",
+    "choice3": "1⁄2b³",
+    "choice4": "2b³",
+    "correctanswer": "3"
+},
+{
+    "problem": "By simplifying (2a³b4 )6 ⁄(4a³b)² x (a²b²), the answer will be",
+
+    "choice1": "4a8 b18",
+    "choice2": "4a10 b20",
+    "choice3": "4a10 b15",
+    "choice4": "4a5 b8",
+    "correctanswer": "2"
+},
+{
+    "problem": "The answer of following (a³b)4 is",
+
+    "choice1": "a14 b5",
+    "choice2": "a8 b4",
+    "choice3": "a12 b4",
+    "choice4": "a10 b³",
+    "correctanswer": "3"
+},
+{
+    "problem": "By simplifying (3x5 y6 )4 ⁄(3x4 y6 )³, the answer will be",
+
+    "choice1": "3x8 y6",
+    "choice2": "3x5 y7",
+    "choice3": "3x9 y5",
+    "choice4": "3x10 y4",
+    "correctanswer": "1"
+},
+{
+    "problem": " By solving the (4x)³, the answer will be",
+
+    "choice1": "84x²",
+    "choice2": "64x²",
+    "choice3": "64x4",
+    "choice4": "64x³",
+    "correctanswer": "4"
+},
+{
+    "problem": "By simplifying the (xy²z)-3 ⁄(x³y³z³)-2 , the answer will be",
+
+    "choice1": "x²y³",
+    "choice2": "x-3 z-3",
+    "choice3": "x³z³",
+    "choice4": "x²z-3",
+    "correctanswer": "3"
+},
+{
+    "problem": "By solving 4(x - y)6 ⁄2(x - y), the answer will be",
+
+    "choice1": "2(x - y)³",
+    "choice2": "2(x - y)7",
+    "choice3": "2(x - y)6",
+    "choice4": "2(x - y)5",
+    "correctanswer": "4"
+},
+{
+    "problem": "By simplifying [(16x6 y5 )²) ⁄(2x²y²)4 ] x [x5 y³ ⁄x³y², the answer will be",
+
+    "choice1": "16x4 y²",
+    "choice2": "16x5 y³",
+    "choice3": "16x6 y³",
+    "choice4": "16x7 y5",
+    "correctanswer": "3"
+},
+{
+    "problem": "By simplifying the 5² ⁄6², the answer will be",
+
+    "choice1": "(5⁄6)4",
+    "choice2": "(5⁄6)³",
+    "choice3": "(5⁄6)5",
+    "choice4": "(5⁄6)²",
+    "correctanswer": "4"
+},
+{
+    "problem": "By solving the following (a6 )4 ⁄(a³)7 , the answer will be",
+
+    "choice1": "a³",
+    "choice2": "a5",
+    "choice3": "a6",
+    "choice4": "a8",
+    "correctanswer": "1"
+}]}

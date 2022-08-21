@@ -1,0 +1,91 @@
+{
+    "questions": [{
+    "problem": "Simplification of (a² - 4b²)⁄((a²+2ab)⁄ab) yields",
+
+    "choice1": "b(a - 2b)",
+    "choice2": "a(b - 2a)",
+    "choice3": "a + 2b",
+    "choice4": "a - 2b",
+    "correctanswer": "1"
+},
+{
+    "problem": "Simplifying the expression (m²cx + mc)⁄(m²x² + 2mx + 1) gives us",
+
+    "choice1": "mc⁄(mx + 1)",
+    "choice2": "(mx + 1)⁄mc",
+    "choice3": "mc + 1⁄m",
+    "choice4": "none of above",
+    "correctanswer": "1"
+},
+{
+    "problem": "Simplifying the expression (3⁄10)(35⁄54)/(14⁄15) gives",
+
+    "choice1": "24⁄5",
+    "choice2": "35⁄6",
+    "choice3": "5⁄24",
+    "choice4": "6⁄24",
+    "correctanswer": "3"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable: t ÷ 7, t = 42",
+
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "6",
+    "choice4": "7",
+    "correctanswer": "3"
+},
+{
+    "problem": "What is the product of (x+a) and (x+b)?",
+
+    "choice1": " x2+ (a-b)x + ab",
+    "choice2": "x2 + (a+b)x - ab",
+    "choice3": "x2 + (a+b)x - ab",
+    "choice4": "x2 + (a+b)x + ab",
+    "correctanswer": "1"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable: s × 7, s = 5",
+
+    "choice1": "20",
+    "choice2": "25",
+    "choice3": "30",
+    "choice4": "35",
+    "correctanswer": "4"
+},
+{
+    "problem": "The product of 4mn and 0 is",
+
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "mn",
+    "choice4": "4mn",
+    "correctanswer": "1"
+},
+{
+    "problem": "The product of 5x and 2y is",
+
+    "choice1": "xy",
+    "choice2": "2xy",
+    "choice3": "5ay",
+    "choice4": "10ay",
+    "correctanswer": "4"
+},
+{
+    "problem": "The product of 7x and -12x is",
+
+    "choice1": "84x²",
+    "choice2": "-84x²",
+    "choice3": " x²",
+    "choice4": "-x²",
+    "correctanswer": "2"
+},
+{
+    "problem": "The product of x², – x³, – x4 is",
+
+    "choice1": "x9",
+    "choice2": "x5",
+    "choice3": "x7",
+    "choice4": "x6",
+    "correctanswer": "1"
+}]}

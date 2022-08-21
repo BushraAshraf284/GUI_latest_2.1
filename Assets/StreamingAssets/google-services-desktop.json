@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659697779099",
+    "project_id": "mathaholic-fyp-2be9a",
+    "storage_bucket": "mathaholic-fyp-2be9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659697779099:android:2e68436edd7bca5f89613e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.GUIFinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659697779099-d8ujvk5dere5v5b5h5i5nj2rn3q4pc6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJ837RDIsVJ4eUdqhEBCdpqm6JR_7Y-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659697779099-d8ujvk5dere5v5b5h5i5nj2rn3q4pc6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

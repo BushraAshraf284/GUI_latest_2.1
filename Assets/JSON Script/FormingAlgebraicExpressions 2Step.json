@@ -1,0 +1,77 @@
+{
+    "questions": [{
+            "problem": "Add ten to n then divide by nine:",
+            "choice1": "(n + 10) ÷ 9",
+            "choice2": "n/9 + 10",
+            "choice3": "n + 10/9",
+            "choice4": "(n+10)/9",
+            "correctanswer": "4"
+
+        },
+        {
+            "problem": "Subtract 5 from n then multiply by 8:",
+            "choice1": "(n – 5) × 8",
+            "choice2": "8n – 5",
+            "choice3": "n – 5(8)",
+            "choice4": "8 (n - 5)",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "Divide n by 2 then subtract 6:",
+            "choice1": "n/2 – 6",
+            "choice2": "(n ÷ 2) – 6",
+            "choice3": "(n - 6) ÷ 2",
+            "choice4": "(n-6)/2",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "Multiply n by n then divide by 3:",
+            "choice1": "nn/3",
+            "choice2": "(n/3)<sup>2</sup>",
+            "choice3": "n<sup>2</sup>/3",
+            "choice4": "n<sup>2</sup> ÷ 3",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "How would you write (n + 4)<sup>2</sup> in words?",
+            "choice1": "4 squared, added to n",
+            "choice2": "Add n to 4, then square the result",
+            "choice3": "Square n then add 6",
+            "choice4": "Add n to 4 then double the result",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "How would you write 5(n - 12) in words?",
+            "choice1": "5 added to n subtract 12",
+            "choice2": "n subtract 12, then multiplied by 5",
+            "choice3": "5 multiplied by n, then subtract 12",
+            "choice4": "n subtract 5 lots of 12",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "How would you write (6n)<sup>2</sup> in words?",
+            "choice1": "6 squared multiplied by n",
+            "choice2": "n multiplied by 6, then doubled",
+            "choice3": "n multiplied by 6, then squared",
+            "choice4": "n squared, then multiplied by 6",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "How would you write (n+4)/10 in words?",
+            "choice1": "Add 4 to n, then divide by 10",
+            "choice2": "Divide n by 10 then add 4",
+            "choice3": "Divide 4 by 10 then add n",
+            "choice4": "Add 4 to n, then multiply by 10",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "Savannah needs n taxis for a party. Each taxi holds 12 people. After filling the taxis, there are 4 spare seats. How many people were there in total?",
+            "choice1": "4n + 12",
+            "choice2": "12n + 4",
+            "choice3": "12n - 4",
+            "choice4": "4n - 12",
+            "correctanswer": "3"
+        }
+
+    ]
+}

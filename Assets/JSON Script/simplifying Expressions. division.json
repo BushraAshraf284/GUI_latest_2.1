@@ -1,0 +1,91 @@
+{
+    "questions": [{
+    "problem": "Evaluate the expression for the given value of the variable: n ÷ 8, n = 40",
+
+    "choice1": "5",
+    "choice2": "6",
+    "choice3": "7",
+    "choice4": "8",
+    "correctanswer": "1"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable: p ÷ 4, p = 28",
+
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "6",
+    "choice4": "7",
+    "correctanswer": "4"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable: 27 ÷ g, g = 3",
+
+    "choice1": "7",
+    "choice2": "8",
+    "choice3": "9",
+    "choice4": "12",
+    "correctanswer": "3"
+},
+{
+    "problem": "Evaluate the expression for the given value of the variable: k ÷ 12, k = 48",
+
+    "choice1": "3",
+    "choice2": "4",
+    "choice3": "5",
+    "choice4": "6",
+    "correctanswer": "2"
+},
+{
+    "problem": "If p = 2, q = 1 and r = 3 then (2pq + 3p)⁄2[(5pqr + 2p) -3pr] is",
+
+    "choice1": "5⁄16",
+    "choice2": "5⁄6",
+    "choice3": "3⁄7",
+    "choice4": "2⁄3",
+    "correctanswer": "1"
+},
+{
+    "problem": "If a = 20, b = 35 and c = 5 then (4a + b)⁄c is",
+
+    "choice1": "23",
+    "choice2": "115",
+    "choice3": "53",
+    "choice4": "43",
+    "correctanswer": "1"
+},
+{
+    "problem": "By solving the algebraic expression 8x⁄8 - (2x - 2)⁄4, the answer will be",
+
+    "choice1": "(4x - 4)⁄8",
+    "choice2": "(2x + 3)⁄5",
+    "choice3": "(2x - 3)⁄8",
+    "choice4": "(4x + 4)⁄8",
+    "correctanswer": "4"
+},
+{
+    "problem": "The statement 7a divided by 8b can be expressed algebraically as",
+
+    "choice1": "56a⁄b",
+    "choice2": "56ab",
+    "choice3": "7a⁄8b",
+    "choice4": "8b⁄7a",
+    "correctanswer": "3"
+},
+{
+    "problem": "On solving the expression 2x⁄5 + 3(2x -12)⁄2 + 2(5x + 8)⁄5, the answer will be",
+
+    "choice1": "54x - 25⁄10",
+    "choice2": "58x - 35⁄12",
+    "choice3": "64x - 15⁄5",
+    "choice4": "28x - 5⁄2",
+    "correctanswer": "1"
+},
+{
+    "problem": "On evaluating b⁄4 + (2b + 2)⁄2 - (8b + 6)⁄6, the answer will be",
+
+    "choice1": "8b - 6",
+    "choice2": "3b - 2⁄4",
+    "choice3": "−b⁄12",
+    "choice4": "b⁄12",
+    "correctanswer": "3"
+}]}

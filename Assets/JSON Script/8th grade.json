@@ -1,0 +1,90 @@
+{
+    "problem": "x0=?",
+
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "correctanswer": "1"
+},
+{
+    "problem": "x1=?",
+
+    "choice1": "1",
+    "choice2": "x",
+    "choice3": "1/x",
+    "choice4": "0",
+    "correctanswer": "2"
+},
+{
+    "problem": "x-m=?",
+
+    "choice1": "mx",
+    "choice2": "1/mx",
+    "choice3": "1/xm",
+    "choice4": "0",
+    "correctanswer": "3"
+},
+{
+    "problem": "(x2*x4)3=?",
+
+    "choice1": "x11",
+    "choice2": "x24",
+    "choice3": "x9",
+    "choice4": "x18",
+    "correctanswer": "4"
+},
+{
+    "problem": "(a6b4)1/2=?",
+
+    "choice1": "ab3",
+    "choice2": "a2b3",
+    "choice3": "a3b2",
+    "choice4": "ab2",
+    "correctanswer": "3"
+},
+{
+    "problem": "If a=2,b=3 then a+b=?",
+
+    "choice1": "1",
+    "choice2": "3",
+    "choice3": "4",
+    "choice4": "5",
+    "correctanswer": "4"
+},
+{
+    "problem": "If a=2,b=-3 then 4a+b=?",
+
+    "choice1": "2",
+    "choice2": "1",
+    "choice3": "5",
+    "choice4": "4",
+    "correctanswer": "3"
+},
+{
+    "problem": "If p=4,q=-3 then 2(p2+q)=?",
+
+    "choice1": "10",
+    "choice2": "26",
+    "choice3": "20",
+    "choice4": "15",
+    "correctanswer": "2"
+},
+{
+    "problem": "If a=3,b=-2 then a2+6/b=?",
+
+    "choice1": "1",
+    "choice2": "6",
+    "choice3": "5",
+    "choice4": "10",
+    "correctanswer": "2"
+},
+{
+    "problem": "If a=1.5,b=-4,c=1.8 then 4ab+10c=?",
+
+    "choice1": "10",
+    "choice2": "6",
+    "choice3": "-6",
+    "choice4": "16",
+    "correctanswer": "3"
+},

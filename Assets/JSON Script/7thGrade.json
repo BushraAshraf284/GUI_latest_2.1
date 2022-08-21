@@ -1,0 +1,179 @@
+{
+    "questions": [{
+            "problem": "6 times b = ? ",
+            "choice1": "6",
+            "choice2": "6b",
+            "choice3": "6 - b",
+            "choice4": "6 + b",
+            "correctanswer": "2"
+
+        },
+        {
+            "problem": "5 substract a = ?",
+
+            "choice1": "a - 5",
+            "choice2": " a / 5",
+            "choice3": " 5 – a",
+            "choice4": "5 + a",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "N squared divided by 6 = ?",
+            "choice1": "N/6",
+            "choice2": "6/N",
+            "choice3": "N/6\\u2072",
+            "choice4": "N\\u2072/6",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "R squared multiply 4 all divided by 5=?",
+            "choice1": "4R/5",
+            "choice2": "4R\\u2072/5",
+            "choice3": "5/4R\\u2072",
+            "choice4": "4/5R\\u2072",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "N squared divided by 6 = ?",
+            "choice1": "N/6",
+            "choice2": "6/N",
+            "choice3": "N/6&sup2",
+            "choice4": "N&sup2/6",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "R squared multiply 4 all divided by 5=?",
+            "choice1": "4R/5",
+            "choice2": "4R\\u2072/5",
+            "choice3": "5/4R\\u2072",
+            "choice4": "4/5R\\u2072",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "b+b+b = ?",
+            "choice1": "b^3",
+            "choice2": "3b",
+            "choice3": "2b",
+            "choice4": "4b",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "Example of expression=?",
+            "choice1": "b=3",
+            "choice2": "A>2",
+            "choice3": "3+x",
+            "choice4": "b2=16",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "Example of equations=?",
+            "choice1": "b+2=3",
+            "choice2": "3>b",
+            "choice3": "3-x",
+            "choice4": "b/2",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "Choose like terms=?",
+            "choice1": "a+b+4",
+            "choice2": "a*b*c",
+            "choice3": "a+a+a",
+            "choice4": "3-a-b",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "3x+2x=?",
+            "choice1": "x",
+            "choice2": "6x",
+            "choice3": "4x",
+            "choice4": "5x",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "3y+4y+2=?",
+            "choice1": "7y+2",
+            "choice2": "9x",
+            "choice3": "9",
+            "choice4": "0",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "Choose the simplified expression=?",
+            "choice1": "8a-b",
+            "choice2": "3x",
+            "choice3": "8a+a",
+            "choice4": "7b+a",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "2x*2x*3=?",
+            "choice1": "12x2",
+            "choice2": "12x",
+            "choice3": "7x2",
+            "choice4": "7x",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "3a*4b=?",
+            "choice1": "7ab",
+            "choice2": "12ab",
+            "choice3": "ab",
+            "choice4": "12",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "2pq*3p*2=?",
+            "choice1": "7p2q",
+            "choice2": "12pq",
+            "choice3": "12p2q",
+            "choice4": "7pq",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "-3a3b*2a2=?",
+            "choice1": "-a5b",
+            "choice2": "6a5b",
+            "choice3": "a5b",
+            "choice4": "-6a5b",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "6x/3=?",
+            "choice1": "2x",
+            "choice2": "12x",
+            "choice3": "9x",
+            "choice4": "3x",
+            "correctanswer": "1"
+        },
+        {
+            "problem": "14xy/7x=?",
+            "choice1": "14xy",
+            "choice2": "7x",
+            "choice3": "2xy",
+            "choice4": "2y",
+            "correctanswer": "4"
+        },
+        {
+            "problem": "14x2y/7xy=?",
+            "choice1": "2xy",
+            "choice2": "2x3y",
+            "choice3": "2x",
+            "choice4": "2y",
+            "correctanswer": "3"
+        },
+        {
+            "problem": "2y+4y/6=?",
+            "choice1": "6",
+            "choice2": "y",
+            "choice3": "6y",
+            "choice4": "2y",
+            "correctanswer": "2"
+        },
+        {
+            "problem": "2x2*3y*2/3x*4=?",
+            "choice1": "x2y",
+            "choice2": "12x2y",
+            "choice3": "12xy",
+            "choice4": "xy",
+            "correctanswer": "4"
+        },
