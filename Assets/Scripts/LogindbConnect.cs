@@ -74,6 +74,7 @@ public class LogindbConnect : MonoBehaviour
             if (www.isNetworkError || www.isHttpError)
             {
                 Debug.Log(www.error);
+                StartCoroutine(Change());
             }
             else
             {
