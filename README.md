@@ -1,2 +1,4 @@
-# GUI_latest_2.1
- Mathaholic Project
+# Mathaholic
+ A Project I made for bachelors degree
+ https://youtu.be/d0jdKb_jXEA
+ 
